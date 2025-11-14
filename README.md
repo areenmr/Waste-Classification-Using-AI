@@ -9,6 +9,15 @@ Images are organized into folders by category and loaded during preprocessing.
 
 Dataset reference:  
 https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification
+
+# How to Connect Kaggle Dataset in Google Colab
+1. Create the Kaggle API Token from your Kaggle account
+2. Upload the token file to Google Drive, then mount Drive in Google Colab
+3. Install the Kaggle library in Colab and configure the environment by placing kaggle.json in the required directory
+4. Download the dataset using the command: kaggle datasets download <sataset-identifier>
+5. Unzip the downloaded file and load the data into your notebook for analysis
+
+   
 ## Requirements
 - Python 3.x
 - TensorFlow
