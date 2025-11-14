@@ -8,8 +8,7 @@ The dataset contains labeled images of plastic, paper, metal, and glass.
 Images are organized into folders by category and loaded during preprocessing.
 
 Dataset reference:  
-https://docs.google.com/spreadsheets/d/1rKqv-p5VRvqU_nDNxcKex5_P2m4iouqU/edit?gid=1245717800#gid=12457178
-
+https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification
 ## Requirements
 - Python 3.x
 - TensorFlow
